@@ -1,2 +1,3 @@
 # Hangman-Game
 This was originally a hangman game, but then it was transferred into a psychic game. Players can type in letters from their keyboards to guess what the psychic is thinking. If the player correctly guesses what the psychic is thinking in 10 tries or less, they get a point added into the "Wins" section. If the player does not correctly guess they letter that they psychic is thinking in 10 tries or less, they get a point added into the "Losses " section . To start the game, player must press any letter on their keyboard. Once a letter is pressed, the game will begin and the wins and losses text will appear.
+To restart the game, press the refresh button in your browser. 
